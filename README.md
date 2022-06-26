@@ -1,2 +1,2 @@
 # algorithms
-There you can find algorithms, wich I learnt for competitions. I hope it will be useful for you.
+There you can find algorithms, wich I have learnt for competitions. I hope it will be useful for you.
